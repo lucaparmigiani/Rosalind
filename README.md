@@ -1,6 +1,6 @@
 # Rosalind
 
-Solving some problems of the **Bioinformatics Stronghold** of rosalind.info 
+Solving some problems of the **Bioinformatics Stronghold** of [http://www.rosalind.info](rosalind.info) 
 cause I've nothing to do.  
 (except doing my thesis, and stage, and a couple of exams...)
 
