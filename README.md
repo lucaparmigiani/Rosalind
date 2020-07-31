@@ -23,10 +23,10 @@ cause I've nothing to do.
 |013 | IEV 	| Calculating Expected Offspring | [X] |
 |014 | LCSM 	| Finding a Shared Motif | [X] |
 |015 | LIA 	| Independent Alleles | [ ] |
-|016 | MPRT 	| Finding a Protein Motif | [ ] |
-|017 | MRNA 	| Inferring mRNA from Protein | [ ] |
-|018 | ORF 	| Open Reading Frames | [ ] |
-|019 | PERM 	| Enumerating Gene Orders | [ ] |
+|016 | MPRT 	| Finding a Protein Motif | [X] |
+|017 | MRNA 	| Inferring mRNA from Protein | [X] |
+|018 | ORF 	| Open Reading Frames | [X] |
+|019 | PERM 	| Enumerating Gene Orders | [X] |
 |020 | PRTM 	| Calculating Protein Mass | [ ] |
 |021 | REVP 	| Locating Restriction Sites | [ ] |
 |022 | SPLC 	| RNA Splicing | [ ] |
