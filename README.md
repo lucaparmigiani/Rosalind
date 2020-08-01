@@ -27,10 +27,10 @@ cause I've nothing to do.
 |017 | MRNA 	| Inferring mRNA from Protein | [X] |
 |018 | ORF 	| Open Reading Frames | [X] |
 |019 | PERM 	| Enumerating Gene Orders | [X] |
-|020 | PRTM 	| Calculating Protein Mass | [ ] |
-|021 | REVP 	| Locating Restriction Sites | [ ] |
-|022 | SPLC 	| RNA Splicing | [ ] |
-|023 | LEXF 	| Enumerating k-mers Lexicographically | [ ] |
+|020 | PRTM 	| Calculating Protein Mass | [X] |
+|021 | REVP 	| Locating Restriction Sites | [X] |
+|022 | SPLC 	| RNA Splicing | [X] |
+|023 | LEXF 	| Enumerating k-mers Lexicographically | [X] |
 |024 | LGIS 	| Longest Increasing Subsequence | [ ] |
 |025 | LONG 	| Genome Assembly as Shortest Superstring | [ ] |
 |026 | PMCH 	| Perfect Matchings and RNA Secondary Structures | [ ] |
