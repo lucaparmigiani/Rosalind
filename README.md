@@ -31,7 +31,7 @@ cause I've nothing to do.
 |021 | REVP 	| Locating Restriction Sites | [X] |
 |022 | SPLC 	| RNA Splicing | [X] |
 |023 | LEXF 	| Enumerating k-mers Lexicographically | [X] |
-|024 | LGIS 	| Longest Increasing Subsequence | [ ] |
+|024 | LGIS 	| Longest Increasing Subsequence | [X] |
 |025 | LONG 	| Genome Assembly as Shortest Superstring | [ ] |
 |026 | PMCH 	| Perfect Matchings and RNA Secondary Structures | [ ] |
 |027 | PPER 	| Partial Permutations | [ ] |
