@@ -1,6 +1,6 @@
 # Rosalind
 
-Solving some problems of the **Bioinformatics Stronghold** of [http://www.rosalind.info](rosalind.info) 
+Solving some problems of the **Bioinformatics Stronghold** of [rosalind.info](http://www.rosalind.info)
 cause I've nothing to do.  
 (except doing my thesis, and stage, and a couple of exams...)
 
@@ -33,13 +33,13 @@ cause I've nothing to do.
 |023 | LEXF 	| Enumerating k-mers Lexicographically | [X] |
 |024 | LGIS 	| Longest Increasing Subsequence | [X] |
 |025 | LONG 	| Genome Assembly as Shortest Superstring | [ ] |
-|026 | PMCH 	| Perfect Matchings and RNA Secondary Structures | [ ] |
-|027 | PPER 	| Partial Permutations | [ ] |
-|028 | PROB 	| Introduction to Random Strings | [ ] |
-|029 | SIGN 	| Enumerating Oriented Gene Orderings | [ ] |
-|030 | SSEQ 	| Finding a Spliced Motif | [ ] |
-|031 | TRAN 	| Transitions and Transversions | [ ] |
-|032 | TREE 	| Completing a Tree | [ ] |
+|026 | PMCH 	| Perfect Matchings and RNA Secondary Structures | [X] |
+|027 | PPER 	| Partial Permutations | [X] |
+|028 | PROB 	| Introduction to Random Strings | [X] |
+|029 | SIGN 	| Enumerating Oriented Gene Orderings | [X] |
+|030 | SSEQ 	| Finding a Spliced Motif | [X] |
+|031 | TRAN 	| Transitions and Transversions | [X] |
+|032 | TREE 	| Completing a Tree | [X] |
 |033 | CAT 	| Catalan Numbers and RNA Secondary Structures | [ ] |
 |034 | CORR 	| Error Correction in Reads | [ ] |
 |035 | INOD 	| Counting Phylogenetic Ancestors | [ ] |
